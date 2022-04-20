@@ -1,0 +1,54 @@
+### Module positions - created on 02/01/22 15:01:09 ###
+### Printed by Pcbnew version kicad (5.1.9)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                             PosX       PosY       Rot  Side
+BZ1       Buzzer                   PUIAudio_SMT_0825_S_4_R                         118.7450   -87.6300  180.0000  top
+C1        100n                     C_0402_1005Metric                               131.5720  -125.9840   90.0000  top
+C2        1u                       C_0402_1005Metric                               123.8250   -93.9800  270.0000  top
+C3        1u                       C_0402_1005Metric                               156.8450  -118.2370    0.0000  top
+C7        100n                     R_0402_1005Metric                               130.6830  -121.4120    0.0000  top
+C8        4.7u                     C_0402_1005Metric                               131.1910  -112.6490  180.0000  top
+C9        4.7u                     C_0402_1005Metric                               154.6860  -121.2850    0.0000  top
+C10       22u                      C_0805_2012Metric                               135.2550  -125.3490    0.0000  top
+C11       10p                      R_0402_1005Metric                               121.6660  -113.7920  180.0000  top
+C12       1n                       R_0402_1005Metric                               123.3170  -114.3000  270.0000  top
+C13       10n                      R_0402_1005Metric                               131.1910  -113.9190    0.0000  top
+C14       100u                     CP_EIA-3528-15_AVX-H                            135.8900  -121.5390    0.0000  top
+C15       100u                     CP_EIA-3528-15_AVX-H                            135.8900  -118.2370    0.0000  top
+C16       100n                     C_0402_1005Metric                               132.0800   -95.2500   90.0000  top
+C17       100n                     C_0402_1005Metric                               151.7650   -79.3750  270.0000  top
+C18       100n                     C_0402_1005Metric                               154.6860  -122.3010    0.0000  top
+C19       100n                     C_0402_1005Metric                               146.0500  -115.5700    0.0000  top
+D1        PWR                      LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   158.7500  -130.8100  270.0000  top
+D2        WIFI                     LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   160.6550  -130.8100  270.0000  top
+D3        ERROR                    LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   162.5600  -130.8100  270.0000  top
+D4        USR_B                    LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   132.0800  -130.8100  270.0000  top
+D8        SS36-E3/57T              D_SMC                                           127.0000  -127.0000  270.0000  top
+J5        USB_C_Receptacle_USB2.0  USB_C_Receptacle_Palconn_UTC16-G                143.5100  -128.2700    0.0000  top
+L1        4.7u                     L_7.3x7.3_H3.5                                  118.7450  -118.7450   90.0000  top
+Q2        S8050                    SOT-23                                          125.7300   -88.2650  180.0000  top
+R1        330                      R_0402_1005Metric                               158.7500  -128.0160   90.0000  top
+R2        330                      R_0402_1005Metric                               160.6550  -128.0160   90.0000  top
+R4        330                      R_0402_1005Metric                               162.5600  -128.0160   90.0000  top
+R5        10k                      R_0402_1005Metric                               125.0950   -93.9800  270.0000  top
+R6        10k                      R_0402_1005Metric                               162.5600   -80.0100  270.0000  top
+R7        330                      R_0402_1005Metric                               132.0800  -128.0160   90.0000  top
+R8        10k                      R_0402_1005Metric                               156.8450  -119.5070    0.0000  top
+R9        4k7                      R_0402_1005Metric                               156.2100   -80.0100  180.0000  top
+R10       820                      R_0603_1608Metric                               156.8450  -121.5390  270.0000  top
+R11       5.1k                     R_0603_1608Metric                               158.7500  -121.5390  270.0000  top
+R12       5.1k                     R_0603_1608Metric                               160.2740  -121.5390  270.0000  top
+R17       10k                      R_0402_1005Metric                               127.0000   -84.4550  270.0000  top
+R18       100k                     R_0402_1005Metric                               125.7300   -84.4550   90.0000  top
+R24       10.2k                    R_0402_1005Metric                               126.0880  -112.9030  180.0000  top
+R25       22k                      R_0402_1005Metric                               123.3170  -116.3550   90.0000  top
+R26       3.24k                    R_0402_1005Metric                               126.0880  -114.0460    0.0000  top
+R27       1k                       R_0402_1005Metric                               132.5880  -125.9840   90.0000  top
+R28       10k                      R_0402_1005Metric                               135.2550   -78.7400  180.0000  top
+RST1      SW_RST                   SW_Push_1P1T_NO_CK_KMR2                         151.7650  -129.5400  270.0000  top
+U1        ESP32-WROOM-32D          ESP32-WROOM-32                                  143.5100  -103.5050    0.0000  top
+U3        CP2102N-GQFN28           QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm           152.4000  -117.6020   90.0000  top
+U5        TPS54331DR               TI_SO-PowerPAD-8_ThermalVias                    128.2700  -117.4750  180.0000  top
+USR1      SW_USR                   SW_Push_1P1T_NO_CK_KMR2                         135.2550  -129.5400   90.0000  top
+## End

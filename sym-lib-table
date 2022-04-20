@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ESPCraft_specific)(type Legacy)(uri ${KIPRJMOD}/libraries/ESPCraft_specific.lib)(options "")(descr ""))
+  (lib (name Interface_USB)(type Legacy)(uri ${KIPRJMOD}/libraries/Interface_USB.lib)(options "")(descr ""))
+  (lib (name ESPCraft-rescue)(type Legacy)(uri ${KIPRJMOD}/ESPCraft-rescue.lib)(options "")(descr ""))
+)
